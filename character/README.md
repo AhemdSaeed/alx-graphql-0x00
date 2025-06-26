@@ -1,0 +1,1 @@
+# Write a GraphQL query using the characters(page: Int) field to fetch the list of characters. For page 1, 2, 3, 4
