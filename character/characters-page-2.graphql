@@ -1,5 +1,5 @@
-{
-  characters(page: 2) {
+query {
+  page2: characters(page: 2) {
     results {
       id
       name
