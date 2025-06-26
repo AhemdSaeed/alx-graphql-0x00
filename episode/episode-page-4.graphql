@@ -1,5 +1,5 @@
 query {
-  episode: episode(id: 4) {
+  epi: episode(id: 4) {
     id
     name
     air_date
